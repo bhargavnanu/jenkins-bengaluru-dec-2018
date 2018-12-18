@@ -1,15 +1,30 @@
 <project>
 	<modelVersion>4.0.0</modelVersion>
+<<<<<<< HEAD
 	<groupId>org.tektutor</groupId>
 	<artifactId>tektutor-hello-app</artifactId>
 	<version>1.0.0</version>	
+=======
+
+	<groupId>org.tektutor</groupId>
+	<artifactId>tektutor-hello-app</artifactId>
+	<version>1.0.0</version>
+>>>>>>> 3628f612a0b9d84c4248672804e79f80a7002641
 
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
+<<<<<<< HEAD
 			<version>4.12</version>	
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+=======
+			<version>4.12</version>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
+	
+>>>>>>> 3628f612a0b9d84c4248672804e79f80a7002641
 </project>
