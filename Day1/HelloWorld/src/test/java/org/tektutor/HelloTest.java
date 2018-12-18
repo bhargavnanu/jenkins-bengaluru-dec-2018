@@ -12,7 +12,7 @@ public class HelloTest {
 	Hello obj = new Hello();
 
 	String actualOutput = obj.sayHello();
-	String expectedOutput = "Hello Java2";
+	String expectedOutput = "Hello Java3";
 
 	assertEquals ( expectedOutput, actualOutput );
 
