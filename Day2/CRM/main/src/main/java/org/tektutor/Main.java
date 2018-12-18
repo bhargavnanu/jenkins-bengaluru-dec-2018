@@ -1,6 +1,5 @@
 package org.tektutor;
 
-
 public class Main {
 
 	public void printModuleName() {
